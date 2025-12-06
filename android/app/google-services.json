@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87320023160",
+    "project_id": "weight-measure-188ec",
+    "storage_bucket": "weight-measure-188ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87320023160:android:193eebbbdacd6e1e969d8d",
+        "android_client_info": {
+          "package_name": "com.example.weight_measure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmA7i4B3mtw8TpPs2Wlv977GcZB2cUxKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
